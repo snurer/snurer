@@ -2,7 +2,7 @@
 - 🧠 I believe in the power of human brain and I'm very enthusiastic about learning new things.
 - 👩🏻‍🏫 I was teaching language and I found myself learning IT languages - which I loved.
 - 📚 I'm a student now and I will always be, because learning never ends -- the only constant is change...
-- 👩‍👧‍👦 Coding is easier than being mom:)
+- 👩‍👧‍👦 Mom of 2 toddlers and coding is easier than being mom:)
 
 
 <!---
