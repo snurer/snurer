@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Nur!
-- 🧠 I believe in the power of human brain and I have passion to learn new things.
-- 👩🏻‍🏫 I was teaching language and I found myself learning IT languages - which I loved.
-- 📚 I'm a student now and I will always be, because learning never end.
-- 👩‍👧‍👦 Mom of 2 toddlers and coding is easier than being mom:)
+<img width="973" alt="Screen Shot 2022-07-07 at 1 40 09 PM" src="https://user-images.githubusercontent.com/106627195/177845793-f81e9436-94cc-4ed4-8b2e-57a0e6804769.png">
+
+
+- Hi, I’m Nur!
+- I believe in the power of human brain and I have passion to learn new things.
+- I was teaching language and I found myself learning IT languages - which I loved.
+- I'm a student now and I will always be, because learning never end.
+- Mom of 2 toddlers and coding is easier than being mom:)
 
 
 <!---
