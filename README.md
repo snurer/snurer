@@ -3,7 +3,6 @@
 
 - Hi, I’m Nur!
 - I believe in the power of human brain and I have passion to learn new things.
-- I was teaching language and I found myself learning IT languages - which I loved.
 - Mom of 2 toddlers and coding is easier than being mom:)
 
 
