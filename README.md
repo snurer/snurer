@@ -2,7 +2,8 @@
 
 
 - Hi, I’m Nur!
-- I believe in the power of human brain and I have passion to learn new things.
+- I believe in the power of human brain.
+- Passionate about learning.
 - Mom of 2 toddlers.
 
 
