@@ -4,7 +4,6 @@
 - Hi, I’m Nur!
 - I believe in the power of human brain.
 - Passionate about learning.
-- Mom of 2 toddlers.
 
 
 <!---
